@@ -1,0 +1,7 @@
+<div>
+    <h1>angular app</h1>
+    Agent Code : <input type='text' [(ngModel)]=agent />    
+    Security Code : <input type='text' [(ngModel)]=security />
+    <input type='button' name='btnCompare' id='btnCompare' value='Compare' (click)='validateCode()'/>
+    <span>{{message}}</span>
+</div>

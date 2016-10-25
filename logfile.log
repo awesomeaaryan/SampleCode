@@ -1,0 +1,96 @@
+[2016-10-12 12:43:52.053] [WARN] watcher - Pattern "C:/my-proj/systemjs.config.extras.js" does not match any file.
+[2016-10-12 12:43:52.061] [WARN] watcher - Pattern "C:/my-proj/app/**/*.css" does not match any file.
+[2016-10-12 12:43:52.065] [WARN] watcher - Pattern "C:/my-proj/testing/**/*.ts" does not match any file.
+[2016-10-12 12:43:52.065] [WARN] watcher - Pattern "C:/my-proj/testing/**/*.js.map" does not match any file.
+[2016-10-12 12:43:52.214] [WARN] karma - No captured browser, open http://localhost:9876/
+[2016-10-12 12:43:52.235] [INFO] karma - Karma v1.3.0 server started at http://localhost:9876/
+[2016-10-12 12:43:52.236] [INFO] launcher - Launching browser Chrome with unlimited concurrency
+[2016-10-12 12:43:52.241] [INFO] launcher - Starting browser Chrome
+[2016-10-12 12:43:54.124] [INFO] Chrome 53.0.2785 (Windows 7 0.0.0) - Connected on socket /#CQaxBFvPjGhRMGJmAAAA with id 11655653
+[2016-10-12 12:43:55.179] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-12 12:43:56.647] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-12 17:33:29.506] [WARN] Chrome 53.0.2785 (Windows 7 0.0.0) - Disconnected (1 times)
+[2016-10-12 17:33:42.469] [INFO] Chrome 53.0.2785 (Windows 7 0.0.0) - Connected on socket /#fWcNUjXHeDggjWiDAAAC with id 11655653
+[2016-10-12 17:33:42.904] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-12 18:19:29.509] [WARN] Chrome 53.0.2785 (Windows 7 0.0.0) - Disconnected (1 times)
+[2016-10-12 18:19:38.931] [INFO] Chrome 53.0.2785 (Windows 7 0.0.0) - Connected on socket /#DDZqQuuFIOY825SlAAAD with id 11655653
+[2016-10-12 18:19:41.474] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-12 18:54:57.510] [WARN] Chrome 53.0.2785 (Windows 7 0.0.0) - Disconnected (1 times)
+[2016-10-12 18:55:06.480] [INFO] Chrome 53.0.2785 (Windows 7 0.0.0) - Connected on socket /#TfZFglYXYsQ_HMk8AAAE with id 11655653
+[2016-10-12 18:55:06.675] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-12 19:29:30.515] [WARN] Chrome 53.0.2785 (Windows 7 0.0.0) - Disconnected (1 times)
+[2016-10-12 19:29:39.939] [INFO] Chrome 53.0.2785 (Windows 7 0.0.0) - Connected on socket /#YJkpLe39kpkw2kZEAAAF with id 11655653
+[2016-10-12 19:29:40.125] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-12 20:04:29.516] [WARN] Chrome 53.0.2785 (Windows 7 0.0.0) - Disconnected (1 times)
+[2016-10-12 20:04:35.791] [INFO] Chrome 53.0.2785 (Windows 7 0.0.0) - Connected on socket /#34AsnpoPLfInfWEgAAAG with id 11655653
+[2016-10-12 20:04:36.125] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-12 20:44:29.503] [WARN] Chrome 53.0.2785 (Windows 7 0.0.0) - Disconnected (1 times)
+[2016-10-12 20:44:38.251] [INFO] Chrome 53.0.2785 (Windows 7 0.0.0) - Connected on socket /#HeGe2KvcTwM-eYnsAAAH with id 11655653
+[2016-10-12 20:44:40.254] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-12 21:19:29.507] [WARN] Chrome 53.0.2785 (Windows 7 0.0.0) - Disconnected (1 times)
+[2016-10-12 21:19:42.288] [INFO] Chrome 53.0.2785 (Windows 7 0.0.0) - Connected on socket /#Fxm0_9pVQFBaXWZmAAAJ with id 11655653
+[2016-10-12 21:19:42.473] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-12 21:54:29.506] [WARN] Chrome 53.0.2785 (Windows 7 0.0.0) - Disconnected (1 times)
+[2016-10-12 21:54:31.818] [INFO] Chrome 53.0.2785 (Windows 7 0.0.0) - Connected on socket /#M9xRYAdb044mulJjAAAK with id 11655653
+[2016-10-12 21:54:31.986] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-12 22:29:29.504] [WARN] Chrome 53.0.2785 (Windows 7 0.0.0) - Disconnected (1 times)
+[2016-10-12 22:29:32.609] [INFO] Chrome 53.0.2785 (Windows 7 0.0.0) - Connected on socket /#BIDfacUo01MQGVSwAAAM with id 11655653
+[2016-10-12 22:29:36.858] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-12 23:04:29.511] [WARN] Chrome 53.0.2785 (Windows 7 0.0.0) - Disconnected (1 times)
+[2016-10-12 23:04:32.017] [INFO] Chrome 53.0.2785 (Windows 7 0.0.0) - Connected on socket /#K9Oh7O7oAwQf9LRjAAAN with id 11655653
+[2016-10-12 23:04:36.106] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-12 23:39:28.510] [WARN] Chrome 53.0.2785 (Windows 7 0.0.0) - Disconnected (1 times)
+[2016-10-12 23:39:29.533] [INFO] Chrome 53.0.2785 (Windows 7 0.0.0) - Connected on socket /#DTLdgvpkrM1c9JTtAAAO with id 11655653
+[2016-10-12 23:39:34.649] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-13 00:14:28.504] [WARN] Chrome 53.0.2785 (Windows 7 0.0.0) - Disconnected (1 times)
+[2016-10-13 00:14:30.762] [INFO] Chrome 53.0.2785 (Windows 7 0.0.0) - Connected on socket /#eVTN9Tg-KRQlcvTAAAAP with id 11655653
+[2016-10-13 00:14:36.291] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-13 00:54:28.511] [WARN] Chrome 53.0.2785 (Windows 7 0.0.0) - Disconnected (1 times)
+[2016-10-13 00:54:35.702] [INFO] Chrome 53.0.2785 (Windows 7 0.0.0) - Connected on socket /#BXa9ldg6qZHYhWDvAAAR with id 11655653
+[2016-10-13 00:54:37.359] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-13 01:49:28.505] [WARN] Chrome 53.0.2785 (Windows 7 0.0.0) - Disconnected (1 times)
+[2016-10-13 01:49:35.602] [INFO] Chrome 53.0.2785 (Windows 7 0.0.0) - Connected on socket /#MLCKDKAeSib4-71TAAAS with id 11655653
+[2016-10-13 01:49:37.430] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-13 02:24:28.507] [WARN] Chrome 53.0.2785 (Windows 7 0.0.0) - Disconnected (1 times)
+[2016-10-13 02:24:34.275] [INFO] Chrome 53.0.2785 (Windows 7 0.0.0) - Connected on socket /#StVxxUFl-8QUJsyOAAAT with id 11655653
+[2016-10-13 02:24:35.990] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-13 02:59:28.507] [WARN] Chrome 53.0.2785 (Windows 7 0.0.0) - Disconnected (1 times)
+[2016-10-13 02:59:33.601] [INFO] Chrome 53.0.2785 (Windows 7 0.0.0) - Connected on socket /#3KlyeVFAlqvRcE2UAAAU with id 11655653
+[2016-10-13 02:59:37.808] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-13 03:34:28.506] [WARN] Chrome 53.0.2785 (Windows 7 0.0.0) - Disconnected (1 times)
+[2016-10-13 03:34:34.710] [INFO] Chrome 53.0.2785 (Windows 7 0.0.0) - Connected on socket /#6BFOohWfydPQCHjKAAAV with id 11655653
+[2016-10-13 03:34:35.480] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-13 04:09:27.511] [WARN] Chrome 53.0.2785 (Windows 7 0.0.0) - Disconnected (1 times)
+[2016-10-13 04:09:36.075] [INFO] Chrome 53.0.2785 (Windows 7 0.0.0) - Connected on socket /#yihbY0DqZidAs1C2AAAX with id 11655653
+[2016-10-13 04:09:36.392] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-13 04:44:28.509] [WARN] Chrome 53.0.2785 (Windows 7 0.0.0) - Disconnected (1 times)
+[2016-10-13 04:44:37.630] [INFO] Chrome 53.0.2785 (Windows 7 0.0.0) - Connected on socket /#irJUxO6GUC0Y2EPKAAAa with id 11655653
+[2016-10-13 04:44:37.872] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-13 05:19:28.510] [WARN] Chrome 53.0.2785 (Windows 7 0.0.0) - Disconnected (1 times)
+[2016-10-13 05:19:30.757] [INFO] Chrome 53.0.2785 (Windows 7 0.0.0) - Connected on socket /#afVbJocGhX1TTdlaAAAb with id 11655653
+[2016-10-13 05:19:35.516] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-13 05:54:27.514] [WARN] Chrome 53.0.2785 (Windows 7 0.0.0) - Disconnected (1 times)
+[2016-10-13 05:54:32.599] [INFO] Chrome 53.0.2785 (Windows 7 0.0.0) - Connected on socket /#g3VgGJL_w1g6lF9TAAAc with id 11655653
+[2016-10-13 05:54:32.753] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-13 06:49:27.508] [WARN] Chrome 53.0.2785 (Windows 7 0.0.0) - Disconnected (1 times)
+[2016-10-13 06:49:33.089] [INFO] Chrome 53.0.2785 (Windows 7 0.0.0) - Connected on socket /#6a9x-KOMHtqUBHZYAAAd with id 11655653
+[2016-10-13 06:49:36.207] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-13 07:24:27.509] [WARN] Chrome 53.0.2785 (Windows 7 0.0.0) - Disconnected (1 times)
+[2016-10-13 07:24:37.037] [INFO] Chrome 53.0.2785 (Windows 7 0.0.0) - Connected on socket /#1QkM_cKEvx33f-T4AAAg with id 11655653
+[2016-10-13 07:24:37.225] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-13 07:59:27.510] [WARN] Chrome 53.0.2785 (Windows 7 0.0.0) - Disconnected (1 times)
+[2016-10-13 07:59:32.498] [INFO] Chrome 53.0.2785 (Windows 7 0.0.0) - Connected on socket /#zCzM6BPUQ6Aa9jT1AAAi with id 11655653
+[2016-10-13 07:59:33.783] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-13 08:34:27.513] [WARN] Chrome 53.0.2785 (Windows 7 0.0.0) - Disconnected (1 times)
+[2016-10-13 08:34:32.551] [INFO] Chrome 53.0.2785 (Windows 7 0.0.0) - Connected on socket /#p6plvW7BbmSfhY-LAAAj with id 11655653
+[2016-10-13 08:34:33.870] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-13 09:09:27.507] [WARN] Chrome 53.0.2785 (Windows 7 0.0.0) - Disconnected (1 times)
+[2016-10-13 09:09:31.703] [INFO] Chrome 53.0.2785 (Windows 7 0.0.0) - Connected on socket /#-ypqSB5ifiTWhdg7AAAk with id 11655653
+[2016-10-13 09:09:33.767] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-13 10:14:27.514] [WARN] Chrome 53.0.2785 (Windows 7 0.0.0) - Disconnected (1 times)
+[2016-10-13 10:14:37.038] [INFO] Chrome 53.0.2785 (Windows 7 0.0.0) - Connected on socket /#tslYFyLrPIZYAdqsAAAn with id 11655653
+[2016-10-13 10:14:37.557] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-13 10:49:49.509] [WARN] Chrome 53.0.2785 (Windows 7 0.0.0) - Disconnected (1 times)
+[2016-10-13 10:49:52.796] [INFO] Chrome 53.0.2785 (Windows 7 0.0.0) - Connected on socket /#FzXWiWHBDX-jzoFhAAAp with id 11655653
+[2016-10-13 10:49:55.567] [WARN] web-server - 404: /base/systemjs.config.extras.js
+[2016-10-13 15:27:42.833] [WARN] Chrome 53.0.2785 (Windows 7 0.0.0) - Disconnected (1 times)
